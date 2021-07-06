@@ -2,3 +2,5 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h3> Changes done at 07:28 pm 06292021 </h3>
+<h4> Auto deploy on 07062021 </h4>
+
